@@ -351,7 +351,7 @@ MonoBehaviour:
   displayImageDuration: 1
   player: {fileID: 95227846}
   exitBackgroundImageCanvasGroup: {fileID: 739646133}
-  caughtBackgroundImageCanvasGroup: {fileID: 0}
+  caughtBackgroundImageCanvasGroup: {fileID: 706632157}
 --- !u!65 &472762984
 BoxCollider:
   m_ObjectHideFlags: 0
