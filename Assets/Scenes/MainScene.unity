@@ -479,7 +479,9 @@ MonoBehaviour:
   displayImageDuration: 1
   player: {fileID: 95227846}
   exitBackgroundImageCanvasGroup: {fileID: 739646133}
+  exitAudio: {fileID: 1666702825}
   caughtBackgroundImageCanvasGroup: {fileID: 706632157}
+  caughtAudio: {fileID: 1536105429}
 --- !u!65 &472762984
 BoxCollider:
   m_ObjectHideFlags: 0
