@@ -3648,7 +3648,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 601304877138206119, guid: a5cbc621f01e0864a99c42ef2e702e74, type: 3}
       propertyPath: m_WalkableMask
-      value: 3
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 601304877138206119, guid: a5cbc621f01e0864a99c42ef2e702e74, type: 3}
       propertyPath: m_StoppingDistance
